@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tendaim13
+- 👀 I’m interested in becoming a ful-stack developer
+- 🌱 I’m currently learning python + django and asp.net + reactjs
+- 
